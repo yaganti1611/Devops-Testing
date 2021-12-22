@@ -1,1 +1,5 @@
 # Devops-Testing
+
+
+*Build 
+*Deploy
